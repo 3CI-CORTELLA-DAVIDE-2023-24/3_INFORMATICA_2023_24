@@ -1,12 +1,12 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_01
+ * Giorni trascorsi da inizio anno
  * 
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import javax.swing.*;
-public class Es_01{
+public class Giornitrascorsidainizioanno{
     public static void main(String[]args){
         int gg;
         int mm;
