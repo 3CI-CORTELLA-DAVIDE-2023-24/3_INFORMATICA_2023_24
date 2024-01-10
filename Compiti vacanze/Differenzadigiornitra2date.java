@@ -1,12 +1,12 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_02
+ *  Differenza di giorni tra 2 date
  * 
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import javax.swing.*;
-public class Es_02{
+public class Differenzadigiornitra2date{
     public static void main(String[]args){
         
         String data1 = "null";
