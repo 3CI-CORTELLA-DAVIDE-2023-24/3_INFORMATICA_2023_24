@@ -1,12 +1,11 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_03
- * 
+ * Sequenza di Fibonacci
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import javax.swing.*;
-public class Es_03{
+public class SequenzadiFibonacci{
     public static void main(String []args){
         int nfib;
         int fib0=0;
