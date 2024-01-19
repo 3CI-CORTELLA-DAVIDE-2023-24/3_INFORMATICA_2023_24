@@ -18,11 +18,11 @@ public class SequenzadiFibonacci{
         System.out.println(fib1+fib0);
         for( i=nfib; i>=2; i--){
             ris= fib0+fib1;
-            System.out.println(+ris);
+            
             fib0=fib1;
             fib1=ris;
         }
-        
+        System.out.println(+ris);
           
     }
 }
