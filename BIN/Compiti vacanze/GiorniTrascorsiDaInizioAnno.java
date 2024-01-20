@@ -1,24 +1,25 @@
 
 /**
  * Giorni trascorsi da inizio anno
- * 
+ * Presa in ingresso una data espressa in gg mm e aa , dire se è una data ammissibile e contare quanti giorni sono trascorsi dall'inizio dell'anno
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import javax.swing.*;
-public class Giornitrascorsidainizioanno{
+public class GiorniTrascorsiDaInizioAnno{
     public static void main(String[]args){
         int gg;
         int mm;
         int aa;
         int gtrascorsi;
+        String data="null";
         gg=Integer.parseInt(JOptionPane.showInputDialog("dimmi il giorno:"));
         mm=Integer.parseInt(JOptionPane.showInputDialog("dimmi il mese:"));
-        aaaa=Integer.parseInt(JOptionPane.showInputDialog("dimmi l'anno:"));
+        aa=Integer.parseInt(JOptionPane.showInputDialog("dimmi l'anno:"));
         if(((0<gg && gg<32) && (mm==01|| mm==03||mm==05||mm==07||mm==10||mm==12|mm==08))||((0<gg && gg<=30) && (mm==11||mm==04||mm==06|| mm==09))||((0<gg && gg<=29)&&(mm==02)&&(aaaa%4==0 && aaaa%100 !=0))){
-            System.out.println("è un anno ammissibile");
+            data=("è un anno ammissibile");
         }else{
-            System.out.println("non è un anno ammissibile");
+            data=("non è un anno ammissibile");
          }
         
         gtrascorsi=gg;
