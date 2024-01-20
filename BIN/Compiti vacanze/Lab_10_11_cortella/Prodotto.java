@@ -7,7 +7,7 @@ package Lab_10_11_cortella;
  * @version 1:0
  */
 import javax.swing.JOptionPane;
-public classProdotto{
+public class Prodotto{
     public static void main(String args[]){
         int val1,val2,i,prod;
         n=2;
