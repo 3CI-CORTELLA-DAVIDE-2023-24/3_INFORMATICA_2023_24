@@ -1,11 +1,12 @@
 
 /**
  * Sequenza di Fibonacci
+ * Preso in ingresso 2 visualizza Fibn
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import javax.swing.*;
-public class SequenzadiFibonacci{
+public class SequenzaDiFibonacci{
     public static void main(String []args){
         int nfib;
         int fib0=0;
