@@ -1,12 +1,12 @@
 
 /**
  *  Differenza di giorni tra 2 date
- * 
+ * Date in input 2 date dire quanti giorni intercorrono tra di loro
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import javax.swing.*;
-public class Differenzadigiornitra2date{
+public class DifferenzaDiGiorniTra2Date{
     public static void main(String[]args){
         
         String data1 = "null";
