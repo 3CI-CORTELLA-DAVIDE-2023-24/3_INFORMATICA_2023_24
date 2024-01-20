@@ -6,7 +6,7 @@ package Lab_10_11_cortella;
  * @version 1.0
  */
 import javax.swing.*;
-public classMedia
+public class Media
 {
     public static void main(String [] args){
      int n,i=0;
