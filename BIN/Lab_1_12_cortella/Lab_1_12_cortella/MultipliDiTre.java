@@ -1,12 +1,11 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_4A
- * 
+ * Stampare i multipli di 3 tra 1 e n inserito dall'utente 
  * @author (Davide Cortella) 
  * @version 1:0
  */
 import javax.swing.*;
-public class Es_4A
+public class MultipliDITre
 {
     public static void main(String [] args){
         int n;
