@@ -1,12 +1,12 @@
 
 /**
- * Visualizzare se l'ultima cifra di un numero inserito è dispari 
+ * Visualizzare  l'ultima cifra di un numero inserito se dispari 
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import java.util.*;
 import java.io.*;
-public class UltimaCifra{
+public class UltimaCifraSeDispari{
     public static void main(String[]args){
         int n,r;
         Scanner inp = new Scanner (System.in);
