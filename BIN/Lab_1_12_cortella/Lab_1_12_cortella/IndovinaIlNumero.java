@@ -1,14 +1,13 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_5B
- * 
+ * Generare in modo casuale un numero tra 1 e 100 , l'utente ha 5 tentativi per indovinarlo , dare anche indizi 
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import java.util.*;
 import java.io.*;
 import java.math.*;
-public class Es_5B{
+public class IndovinaIlNumero{
     public static void main(String[]args){
         int randomNumber = (int)(Math.random()*100);
         int n=0,i=0;
