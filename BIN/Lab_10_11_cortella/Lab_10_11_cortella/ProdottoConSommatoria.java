@@ -2,13 +2,12 @@ package Lab_10_11_cortella;
 
 
 /**
- * Aggiungi qui una descrizione della classe Es3
- * 
+ * Calcolare il prodotto di 2 valori interi e positivi  utilizzando la sommatoria 
  * @author Davide Cortella 
  * @version 1:0
  */
 import javax.swing.*;
-public class Es3{
+public class ProdottoConSommatoria{
     public static void main (String[]args){
         int n, volte, somma , prodotto, risultato=0;
         n =Integer.parseInt(JOptionPane.showInputDialog("Inserisci un numero intero"));
@@ -18,7 +17,7 @@ public class Es3{
             risultato=n+risultato;
         }
         
-        System.out.println("il risultato è : "+risultato);
+        System.out.println("il risultato Ã¨ : "+risultato);
         
         
     }
