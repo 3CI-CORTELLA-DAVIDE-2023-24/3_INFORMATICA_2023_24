@@ -1,13 +1,12 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_1B
- * 
+ * Letta una temperatura dire se c'è freddo (<10) fresco(tra 10 e minore di 20) caldo(tra 20 e 29)molto caldo(più di 29); la temperatura non deve essere minore di -50 e maggiore di 50
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import java.util.*;
 import java.io.*;
-public class Es_1B{
+public class Temperatura{
     public static void main(String[]args){
         double temp;
         Scanner inp = new Scanner (System.in);
