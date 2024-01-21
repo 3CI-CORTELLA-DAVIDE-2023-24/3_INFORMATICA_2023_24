@@ -6,7 +6,7 @@ package Lab_10_11_cortella;
  * @version 1.0
  */
 import javax.swing.*;
-public class Es1
+public class Media
 {
     public static void main(String [] args){
      int n,i=0;
@@ -25,7 +25,7 @@ public class Es1
             somma=somma+val;
          }
      media=somma/n;
-     System.out.println("La tua  media  è:"+media);
+     System.out.println("La tua  media  Ã¨:"+media);
      if(media>3&&media<6){
          System.out.println("Sei bocciato");
      }
