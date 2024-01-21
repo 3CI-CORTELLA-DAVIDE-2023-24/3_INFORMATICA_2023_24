@@ -1,12 +1,11 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_2A
- * 
+ * Letti n numeri interi calcolare la somma dei valori pari 
  * @author (Davide Cortella) 
  * @version 1:0
  */
 import javax.swing.*;
-public class Es_2A{
+public class SommaValoriPari{
     public static void main(String []args){
         int n;
         int v;
