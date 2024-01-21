@@ -1,13 +1,12 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_3B
- * 
+ * Letti n numeri double restituirne il prodotto dei valori positivi 
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import java.util.*;
 import java.io.*;
-public class Es_3B{
+public class ProdottoNumeriDouble{
     public static void main(String[]args){
         int n,i=0;
         double v,p=1;
