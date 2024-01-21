@@ -1,13 +1,12 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_2B
- * 
+ * Visualizzare se l'ultima cifra di un numero inserito è dispari 
  * @author (Davide Cortella) 
  * @version (1:0)
  */
 import java.util.*;
 import java.io.*;
-public class Es_2B{
+public class UltimaCifra{
     public static void main(String[]args){
         int n,r;
         Scanner inp = new Scanner (System.in);
