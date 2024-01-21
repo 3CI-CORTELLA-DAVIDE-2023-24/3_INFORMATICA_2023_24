@@ -1,12 +1,11 @@
 
 /**
- * Aggiungi qui una descrizione della classe lab_24_11
- * 
+ *Leggere 2 numeri e verificare se sono amici, verificarecche 220 e 284 sono amici
  * @author (Davide Cortella) 
  * @version 1:0
  */
 import javax.swing.*;
-public class es5_A{
+public class NumeriAmici{
     public static void main(String [] args){
         int n1;
         int n2;
