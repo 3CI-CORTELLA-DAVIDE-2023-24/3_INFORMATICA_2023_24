@@ -1,12 +1,11 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_5A
- * 
+ * Leggere 2 numeri e dire se sono amici
  * @author (Davide Cortella ) 
  * @version (1:0)
  */
 import javax.swing.*;
-public class Es_5A{
+public class NumeriAmici{
     public static void main(String [] args){
         int n1;
         int n2;
