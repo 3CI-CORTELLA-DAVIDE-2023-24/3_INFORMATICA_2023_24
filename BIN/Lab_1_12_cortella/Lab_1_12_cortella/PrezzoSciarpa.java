@@ -1,12 +1,11 @@
 
 /**
- * Aggiungi qui una descrizione della classe Lab_1_12
- * 
+ * Letto il prezzo di una sciarpa , dire se è un prodotto economico (fino a 10 euro), regolare(superiore ai 10)o di lusso (superiore a 50)
  * @author (Davide Cortella) 
  * @version 1:0
  */
 import javax.swing.*;
-public class Es_1A{
+public class PrezzoSciarpa{
     public static void main(String[] args ){
         int p;
         do{
@@ -15,10 +14,10 @@ public class Es_1A{
         if(p<=10){
             System.out.println("il prodotto è economico");
         }
-        if(p>10 && p<=50){
+        else if(p>10 && p<=50){
         System.out.println("il prodotto è regolare");
         }
-        if(p>50){
+        else(p>50){
             System.out.println("il prodotto è regolare");
         }
         
