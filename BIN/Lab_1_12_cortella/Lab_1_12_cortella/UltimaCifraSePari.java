@@ -1,12 +1,11 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es_3A
- * 
+ * Visualizzare l'ultima cifra di un numero inserito se pari 
  * @author (Davide Cortella) 
  * @version 1:0
  */
 import javax.swing.*;
-public class Es_3A{
+public class UltimaCifraSePari{
     public static void main (String args[]){
         int n;
         int r=10;
