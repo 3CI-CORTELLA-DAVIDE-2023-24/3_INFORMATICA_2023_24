@@ -6,8 +6,7 @@
  * @version 1.0
  */
 import javax.swing.*;
-
-public class Es_06{
+public class DominioEmail{
     public static void main(String[]args){
         String Email=JOptionPane.showInputDialog("dimmi la tua mail");
         char C1;
