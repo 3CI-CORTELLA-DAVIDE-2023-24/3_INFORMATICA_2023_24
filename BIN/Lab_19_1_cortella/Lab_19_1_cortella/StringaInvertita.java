@@ -6,7 +6,7 @@
  */
 import java.util.*;
 import javax.swing.*;
-public class Es_09{
+public class StringaInvertita{
     public static void main(String args[]){
         String parola=JOptionPane.showInputDialog("dimmi una parola");
         int i;
