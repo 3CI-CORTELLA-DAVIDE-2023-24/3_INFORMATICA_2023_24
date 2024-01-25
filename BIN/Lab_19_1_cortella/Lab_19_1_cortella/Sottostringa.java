@@ -6,7 +6,7 @@
  * @version 1.0
  */
 import javax.swing.*;
-public class Es_01{
+public class Sottostringa{
     public static void main(String[]args){
 
         String sottostringa="";
