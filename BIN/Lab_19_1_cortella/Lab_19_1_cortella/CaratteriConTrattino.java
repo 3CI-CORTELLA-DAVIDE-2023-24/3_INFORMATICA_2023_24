@@ -5,7 +5,7 @@
  * @version 1.0
  */
 import javax.swing.*;
-public class Es_02{
+public class CaratteriConTrattino{
     public static void main(String args[]){
         String Parola;
         int i ;
