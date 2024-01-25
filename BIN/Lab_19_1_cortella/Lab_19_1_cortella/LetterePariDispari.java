@@ -6,7 +6,7 @@ in posizione pari seguite da tutte le lettere in posizione dispari della prima p
  * @version 1.0
  */
 import javax.swing.*;
-public class Es_14{
+public class LetterePariDispari{
     public static void main(String[]args){
         String parola=JOptionPane.showInputDialog("dimmi una parola");
         int i;
