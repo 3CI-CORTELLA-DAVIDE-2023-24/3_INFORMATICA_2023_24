@@ -5,7 +5,7 @@
  * @version 1.0
  */
 import javax.swing.*;
-public class Es_13{
+public class VocaliAsterisco{
     public static void main(String[]args){
         String parola=JOptionPane.showInputDialog("dimmi una parola");
         int i;
