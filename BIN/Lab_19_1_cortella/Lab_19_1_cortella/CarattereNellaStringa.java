@@ -5,7 +5,7 @@
  * @version 1.0
  */
 import javax.swing.*;
-public class Es_16{
+public class CarattereNellaStringa{
     public static void main(String[]args){
         String parola=JOptionPane.showInputDialog("dimmi una parola");
         String carattere=JOptionPane.showInputDialog("dimmi un carattere");
