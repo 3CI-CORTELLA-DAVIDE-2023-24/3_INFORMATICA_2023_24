@@ -6,7 +6,7 @@
  */
 import javax.swing.*;
 
-public class Es_03{
+public class PresenzaValoreNelVettore{
     public static void main(String[]args){
         int v[],k,i=0,l;
         l=Integer.parseInt(JOptionPane.showInputDialog("dimmi quanti valori vuoi" ));
