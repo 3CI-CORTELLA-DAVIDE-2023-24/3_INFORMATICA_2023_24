@@ -11,7 +11,7 @@
 import javax.swing.*;
 import java.util.*;
 import java.io.*;
-public class Es_02{
+public class ArrayPromossoBocciato{
     public static void main(String[]args){
         int l,i;
         double voti[],somma=0.0,media=0.0,votopiùalto=0.0,votopiùbasso=10;
