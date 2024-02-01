@@ -12,7 +12,7 @@ import javax.swing.*;
 import java.util.*;
 import java.io.*;
 
-public class Es_01{
+public class ArraySommaSommadSommapp{
     public static void main(String[]args){
         int l;
         int v[];
