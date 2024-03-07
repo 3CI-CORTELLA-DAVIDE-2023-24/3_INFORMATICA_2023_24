@@ -6,7 +6,7 @@ calcolare la media eliminando il valore più grande
  * @version 1.0
  */
 import javax.swing.*;
-public class Es3{
+public class ArrayMediaValoriDouble{
     public static void main(String[]args){
         int i ,n;
         double vettore[],valore,somma =0.0 ,media=0.0, massimo=0.0;
