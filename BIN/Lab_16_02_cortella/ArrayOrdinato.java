@@ -1,12 +1,11 @@
 
 /**
- * Aggiungi qui una descrizione della classe Es4
- * Ordinare un vettore letto precedentemente con gli algoritmi proposti in laboratorio
+ * Ordinare un vettore letto precedentemente 
  * @author Davide Cortella 
  * @version 1.0
  */
 import javax.swing.*;
-public class Es4{
+public class ArrayOrdinato{
     public static void main(String[]args){
         int vettore[],i,t,k,nvalori;
         nvalori=Integer.parseInt(JOptionPane.showInputDialog("dimmi quanti valori ci sono"));
