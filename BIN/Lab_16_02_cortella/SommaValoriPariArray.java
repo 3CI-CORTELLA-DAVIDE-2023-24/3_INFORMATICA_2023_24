@@ -8,7 +8,7 @@
  * @version 1.0
  */
 import javax.swing.*;
-public class Es1{
+public class SommaValoriPariArray{
     public static void main(String[]args){
         int n,vettore[],sommapd=0;
         do{
