@@ -7,7 +7,7 @@ Creare una stringa contenente tutte le stringhe del vettore concatenate divise d
  * @version 1.0
  */
 import javax.swing.*;
-public class Es2{
+public class ArrayStringheConcatenate{
     public static void main(String[]args){
         int n,i;
         String vettore[];
